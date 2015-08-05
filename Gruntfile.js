@@ -353,7 +353,7 @@ module.exports = function (grunt) {
     },
     pages: {
       options: {
-        remote: 'git@github.com:example_user/example_webapp.git',
+        remote: 'git@github.com:alanbuchanan/yeoman_grunt_deployment.git',
         branch: 'gh-pages'
       }
     },
